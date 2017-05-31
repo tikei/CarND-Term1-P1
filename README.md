@@ -13,10 +13,14 @@ Files contained:
 A Jupyter notebook, containing the code
 P1.ipynb  
 
-Input folders
+Input folders:
+
 test_images
+
 test_videos
 
-Output folders containing the modified images and video.
+Output folders containing the modified images and video:
+
 test_images_output
+
 test_video_output
